@@ -22,7 +22,7 @@
 <h3 font-size="20" align="center">A budding web developer/analyst from Canada.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** 
+- 🌱 I’m currently learning **More on Web technology** 
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
