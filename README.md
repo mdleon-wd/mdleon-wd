@@ -28,7 +28,7 @@
 
 - 🤝 I’m looking for an **Internship/Job**
 
-- 👨‍💻 All of my educational projects are available [@mdeleon-wd](github.com/mdeleon-wd)
+- 👨‍💻 All of my educational projects are available [@mdeleon-wd](https://github.com/mdleon-wd?tab=repositories)
 
 - 💬 Ask me about **Web Technology and Social Media Marketing 😆**
 
