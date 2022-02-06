@@ -168,13 +168,13 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://dev.to/example" target="_blank">
+    <a  href="https://dev.to/mdleonwd" target="_blank">
       <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
     </a>
-    <a href="https://medium.com/@example" target="_blank">
+    <a href="https://medium.com/@mdleonwd" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a>
-    <a href="https://codepen.io/@example" target="_blank">
+    <a href="https://codepen.io/mdleonwd" target="_blank">
       <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
     </a>
   </div>
@@ -193,8 +193,8 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=mdleon-wd&show_icons=true&theme=calm&hide_border=true&locale=en)](https://github.com/mdleon-wd)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mdleon-wd&theme=calm&hide_border=true)](https://github.com/mdleon-wd)
+[![](https://github-readme-stats.vercel.app/api?username=mdleon-wd&show_icons=true&theme=darkc&hide_border=true&locale=en)](https://github.com/mdleon-wd)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mdleon-wd&theme=dark&hide_border=true)](https://github.com/mdleon-wd)
 </div>
 
 ------
