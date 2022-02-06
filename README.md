@@ -22,13 +22,13 @@
 <h3 font-size="20" align="center">A budding web developer/analyst from Canada.</h3>
 
 
-- 🌱 I’m currently learning **More on Web technology** 
+- 🌱 I’m currently learning **Web technology** 
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
 - 🤝 I’m looking for an **Internship/Job**
 
-- 👨‍💻 All of my projects are available [@mdeleon-wd](github.com/mdeleon-wd)
+- 👨‍💻 All of my educational projects are available [@mdeleon-wd](github.com/mdeleon-wd)
 
 - 💬 Ask me about **Web Technology and Social Media Marketing 😆**
 
