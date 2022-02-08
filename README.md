@@ -6,37 +6,45 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/milrosejourney/">
-      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://twitter.com/iamesorlim" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
-    
   </div>
 </div>
 <p align="center">
    <img src="https://media.giphy.com/media/gUMwdDdaZzkHhJOlNj/giphy.gif" width="100"/>
 </p>
-
 <h1 align="center">Hello there, I'm Milrose! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A budding web developer/analyst from Canada.</h3>
 
 
 - 🌱 I’m currently learning **Web technology** 
-
 - 👯 I’m looking to collaborate on **Spring Framework**
-
 - 🤝 I’m looking for an **Internship/Job**
-
 - 👨‍💻 All of my educational projects are available [@mdeleon-wd](https://github.com/mdleon-wd?tab=repositories)
-
 - 💬 Ask me about **Web Technology and Social Media Marketing 😆**
+- ⚡ Fun fact: **I also love to sing ;)**
 
-- ⚡ Fun fact **I also love to sing ;)**
+----
 
----
+<h2 align="center">My favorite projects 💻</h2>
+<br />
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<p align="center">
+    <a href="https://github.com/mdleon-wd/projet-quiz">
+       <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mdleon-wd&repo=projet-quiz&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/mdleon-wd/ProjetResto">
+       <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mdleon-wd&repo=ProjetResto&theme=tokyonight" />
+    </a>
+</p>
+
+<br />
+
+
+<h2 align="center"><u><b>My Knowledge Base</b></u></h2>
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -120,7 +128,10 @@
   <a href="https://www.soapui.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/soapui-ffe135.svg?style=for-the-badge&logo=soapui&logoColor=white"
       alt="selenium" /> 
-  </a> 
+  </a>
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
@@ -147,24 +158,18 @@
    <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" **alt="visual studio" width="40"            height="40"/>&nbsp
   </a>
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  <a href="https://wordpress.com" target="_blank"> 
+     <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" **alt="wordpress" width="40" height="40"/>&nbsp
   </a>
   <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
   </a>
-  <a href="https://wordpress.com" target="_blank"> 
-     <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" **alt="wordpress" width="40" height="40"/>&nbsp
-  </a>
-  <a href="https://postman.com" target="_blank"> 
-     <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="vscode" width="40" height="40"/>&nbsp
-  </a>
 </p>
 
 ----
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with me:</h3>
 
 <div style="margin-top:10px" align="center">
   <div>
@@ -191,10 +196,9 @@
 ----
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=mdleon-wd&show_icons=true&theme=dark&hide_border=true&locale=en)](https://github.com/mdleon-wd)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mdleon-wd&theme=dark&hide_border=true)](https://github.com/mdleon-wd)
+    <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+    <img src="https://github-readme-stats.vercel.app/api?username=mdleon-wd&show_icons=true&theme=dark&hide_border=true&locale=en" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdleon-wd&theme=dark&hide_border=true" width="400" />
 </div>
 
 ------
