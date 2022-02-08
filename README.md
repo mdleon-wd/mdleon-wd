@@ -29,19 +29,6 @@
 
 ----
 
-<h2 align="center">My favorite projects 💻</h2>
-<br />
-
-<p align="center">
-    <a href="https://github.com/mdleon-wd/projet-quiz">
-       <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mdleon-wd&repo=projet-quiz&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/mdleon-wd/ProjetResto">
-       <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mdleon-wd&repo=ProjetResto&theme=tokyonight" />
-    </a>
-</p>
-
-<br />
 
 
 <h2 align="center"><u><b>My Knowledge Base</b></u></h2>
