@@ -21,7 +21,6 @@
 
 
 - 🌱 I’m currently learning **Web technology** 
-- 👯 I’m looking to collaborate on **Spring Framework**
 - 🤝 I’m looking for an **Internship/Job**
 - 👨‍💻 All of my educational projects are available [@mdeleon-wd](https://github.com/mdleon-wd?tab=repositories)
 - 💬 Ask me about **Web Technology and Social Media Marketing 😆**
