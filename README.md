@@ -31,7 +31,6 @@
 
 
 <h2 align="center"><u><b>My Knowledge Base</b></u></h2>
-<h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
    <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp"  alt="Csharp" width="40" height="40"/>&nbsp;
@@ -51,10 +50,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="40" height="40"/>&nbsp;
   </a>
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
    <a href="https://getbootstrap.com" target="_blank">
      <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   </a>
@@ -64,10 +59,6 @@
    <a href="https://angular.io" target="_blank">
     <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="angular" width="40" height="40"/>&nbsp;
   </a>
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
   <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet/" target="_blank"> 
     <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="dotnet"  alt="dotnet" width="40" height="40"/>&nbsp; 
   </a>
@@ -83,10 +74,6 @@
   <a href="https://laravel.com/" target="_blank"> 
      <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="laravel" width="40" height="40"/>&nbsp;
   </a>
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   </a>
@@ -97,20 +84,12 @@
   <a href="https://www.mongodb.com/" target="_blank"> 
      <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="mongodb" width="40" height="40"/>&nbsp; 
   </a> 
-</p>
-
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/azure/azure-original.svg" title="Azure"  alt="azure" width="40" height="40"/>&nbsp; 
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Azure"  alt="azure" width="40" height="40"/>&nbsp; 
   </a>
-</p>
-
-<h3 align="center">Testing</h3>
-<p align="center"> 
   <a href="https://www.soapui.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/soapui-ffe135.svg?style=for-the-badge&logo=soapui&logoColor=white"
       alt="selenium" /> 
@@ -118,10 +97,6 @@
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
-</p>
-
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
   <a href="https://www.atlassian.com/agile/tutorials" target="_blank">
      <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="jira" width="40" height="40"/>&nbsp
   </a>
@@ -131,10 +106,6 @@
   <a href="https://gitlab.com/milrosedl" target="_blank">
     <img src="https://github.com/mdleon-wd/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" **alt="gitlab" width="40" height="40"/>&nbsp
   </a>
-</p>
-
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
   <a href="https://eclipse.org" target="_blank">
     <img src="https://img.shields.io/badge/eclipse-orange.svg?style=for-the-badge&logo=eclipse&logoColor=white" title="Eclipse" **alt="eclipse" />&nbsp
   </a>
