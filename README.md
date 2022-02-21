@@ -4,7 +4,7 @@
 <h1 align="center">A budding web developer/analyst from Canada.</h1>
 
 
-- 🌱 I’m currently learning **Web technology** 
+- 🌱 I’m currently learning **Vue JS** 
 - 🤝 I’m looking for an **Internship/Job**
 - 👨‍💻 All of my educational projects are available [@mdleon-wd](https://github.com/mdleon-wd?tab=repositories)
 - 💬 Ask me about **Web Technology and Social Media Marketing 😆**
@@ -173,6 +173,6 @@
 
 ------
 
-Last Edited on: 10/02/2022
+Last Edited on: 21/02/2022
 
 
