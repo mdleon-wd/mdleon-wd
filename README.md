@@ -37,9 +37,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="" />&nbsp
   </a>
     <a href="" target="_blank"> 
-    <img src="https://img.shields.io/badge/Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white" alt="" />&nbsp
-  </a>
-    <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/Angular-be1d15?style=for-the-badge&logo=angular&logoColor=white" alt="" />&nbsp
   </a>
     <a href="" target="_blank"> 
