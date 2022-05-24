@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning **Vue JS** 
-- 🤝 I’m looking for an **Internship/Job**
+- 🤝 I’m looking for a **Job**
 - 👨‍💻 All of my educational projects are available [@mdleon-wd](https://github.com/mdleon-wd?tab=repositories)
 - 💬 Ask me about **Web Technology and Social Media Marketing 😆**
 - ⚡ Fun fact: **I also love to sing ;)**
@@ -167,6 +167,6 @@
 
 ------
 
-Last Edited on: 21/02/2022
+Last Edited on: 24/05/2022
 
 
