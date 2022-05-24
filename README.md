@@ -40,9 +40,6 @@
     <img src="https://img.shields.io/badge/Angular-be1d15?style=for-the-badge&logo=angular&logoColor=white" alt="" />&nbsp
   </a>
     <a href="" target="_blank"> 
-    <img src="https://img.shields.io/badge/JQuery-2f74c0?style=for-the-badge&logo=jquery&logoColor=white" alt="" />&nbsp
-  </a>
-    <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="" />&nbsp
   </a>
     <a href="" target="_blank"> 
