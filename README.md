@@ -112,18 +112,6 @@
 <p align="center">
  <img width="400" alt="Login" src="https://user-images.githubusercontent.com/89690142/153289528-4f68a078-aee3-4d09-b769-66c377c5f390.png">
  <img width="400" alt="Resto1" src="https://user-images.githubusercontent.com/89690142/153508352-f3aac68b-d4e5-4ece-a9ca-9f7b5075b162.png">
- <a href="https://github.com/mdleon-wd/ProjetReddit">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mdleon-wd&repo=ProjetReddit&theme=tokyonight" />
- </a>
- <a href="https://github.com/mdleon-wd/ProjetResto">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mdleon-wd&repo=ProjetResto&theme=tokyonight" />
- </a>
- <a href="https://github.com/mdleon-wd/animAlerteGifts">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mdleon-wd&repo=animAlerte&theme=tokyonight" />
- </a>
- <a href="https://github.com/mdleon-wd/ProjetQuiz">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mdleon-wd&repo=ProjetQuiz&theme=tokyonight" />
- </a>
 </p>
 
 
@@ -161,7 +149,6 @@
 
 <div align="center">
     <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-    <img src="https://github-readme-stats.vercel.app/api?username=mdleon-wd&show_icons=true&theme=dark&hide_border=true&locale=en" width="400"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdleon-wd&theme=dark&hide_border=true" width="400" />
 </div>
 
